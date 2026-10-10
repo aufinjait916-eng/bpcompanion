@@ -1,0 +1,6 @@
+{
+  "name": "BP Companion",
+  "description": "A mindful blood pressure log with guided pre-reading relaxation timer, immediate +/-10 mmHg feedback, and interactive trend analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
